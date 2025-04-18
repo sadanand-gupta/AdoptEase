@@ -1,6 +1,6 @@
-## Batch 10 Assignment 6 - Pet Adoption Platform
+## Pet Adoption Platform
 
-- Title: Peddy - Pet Adoption Platform
+- Title: AdoptEase - Pet Adoption Platform
 
 - Short description of the project
 
@@ -22,15 +22,6 @@
   - Fat Arrow => function for using function to easy way.
   - Reusable function for using function to easy way.
   - Template literals for using html to easy way.
-
-## Project Link
-
-- Live link to the deployed project:
-
-  - https://batch10-assignment-6.netlify.app
-  - https://batch10-assignment-6.surge.sh
-
-![Logo](./images/project-screenshot.png)
 
 ## Make Resources
 
