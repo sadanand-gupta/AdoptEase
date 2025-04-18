@@ -1,48 +1,38 @@
-Got it! Here’s the updated version with the new title:  
+## Batch 10 Assignment 6 - Pet Adoption Platform
 
----
+- Title: Peddy - Pet Adoption Platform
 
-## AdoptEase - Pet Adoption Platform Submission  
+- Short description of the project
 
-- **Title:** AdoptEase - Pet Adoption Platform  
+  - This project is Pet Adoption Platform any one can adopt a pet. you can buy a pet and see all pets name, images and more. you can sort pet by price. you can see category by clicked pet's icon.
 
-- **Short Description of the Project**  
-  AdoptEase is a modern and interactive Pet Adoption Platform that allows users to explore and adopt pets with ease. It provides detailed information about pets, including names, breeds, prices, and other key details. Users can also filter pets by price and explore categories by clicking on pet icons, ensuring a smooth browsing experience.  
+- 5 key features of the project:
 
-- **5 Key Features of the Project:**  
-  - 🐾 **Complete Pet Information:** Users can view pet details such as name, breed, gender, price, vaccination status, and more.  
-  - 🛒 **Adopt and Purchase Options:** Users can adopt or buy pets directly from the platform.  
-  - 📱 **Responsive Across Devices:** The platform is fully responsive and adapts to different screen sizes.  
-  - 💸 **Price-Based Sorting:** Easily sort pets based on price to make better decisions.  
-  - 🏷️ **Category-Based Browsing:** Clicking on a pet’s icon shows similar categories for easy exploration.  
+  - User can see all details of pets. like name, breed, gender, price, vaccinated status, pet details.
+  - User can buy a any pet from here. you can see all pets name, images and more.
+  - User can use this website any devise's you can see all pets name, images and more.
+  - User can sort pet by price. you can see all pets name, images and more.
+  - User can see category by clicked pet's icon. you can see all pets name, images and more.
 
-- **ES6 Features Used:**  
-  - 🔄 **Fetch API:** To retrieve pet data efficiently.  
-  - ⏱️ **Async & Await:** For handling asynchronous operations smoothly.  
-  - ❓ **Nullish Coalescing Operator (`??`):** To handle cases where data may be null or undefined.  
-  - 🎯 **Arrow Functions (`=>`):** For concise and modern function syntax.  
-  - 🔁 **Reusable Functions:** To minimize code duplication and improve maintainability.  
-  - 📝 **Template Literals:** For dynamically generating HTML content.  
+- ES6 features used:
 
----
+  - Fetch for To fetching data from API.
+  - Async & Await for promise resolve to get data.
+  - Nullish coalescing operator for Null or Undefined.Values.
+  - Fat Arrow => function for using function to easy way.
+  - Reusable function for using function to easy way.
+  - Template literals for using html to easy way.
 
-## Project Link  
+## Project Link
 
-- **Live Links to the Deployed Project:**  
-  - 🌐 [github Deployment]()  
+- Live link to the deployed project:
 
----
+  - https://batch10-assignment-6.netlify.app
+  - https://batch10-assignment-6.surge.sh
 
-## Technologies & Resources Used  
+![Logo](./images/project-screenshot.png)
 
-- 🎨 [Tailwind CSS](https://tailwindcss.com/) – For sleek and responsive styling.  
-- 🌸 [Daisy UI](https://daisyui.com/) – For ready-to-use UI componetifynts that enhance the platform.  
+## Make Resources
 
----
-
-## About Me  
-
-👨‍💻 **About the Developer:**  
-I’m an enthusiastic **Web Developer** with a strong passion for creating user-friendly and responsive applications. This project reflects my commitment to building intuitive platforms that provide seamless experiences for users.  
-
-Explore the project and let me know your thoughts! 🐶🐱  
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Daisy UI](https://daisyui.com/)

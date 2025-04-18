@@ -1,5 +1,5 @@
 const id = (id) => document.getElementById(id);
-const baseURL = "https://openapi.programming-hero.com/api/adoptEase";
+const baseURL = "https://openapi.programming-hero.com/api/peddy";
 
 // this function will fetch the data from the server
 async function fetchData(path) {
